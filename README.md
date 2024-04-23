@@ -41,4 +41,4 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d1-ctc-lab1/blob/solution/index.html) (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d1-html-elements-1/blob/together-solution/index.html) (link not shown).
